@@ -1,0 +1,15 @@
+.tanpa-bootstrap {
+    border: none;
+    padding: 20px;
+    font-weight: 800;
+    font-size: 3em;
+    background-color: rgb(13, 0, 255);
+    color: rgb(3, 2, 2);
+    cursor: pointer;
+}
+.tanpa-bootstrap {
+    background-color: blue;
+    color: black;
+    transform: rotateY(2);
+    transition: all .5;
+}
